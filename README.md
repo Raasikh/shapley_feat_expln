@@ -1,12 +1,5 @@
 # SHAP-Based Explainability for Regulated ML Compliance
 
-## What This Is
-
-A runnable demo that backs the Hive AI resume bullet:
-> *"Compliance approval improved 22% by integrating SHAP-based explainability layers for regulated ML outputs"*
-
-Builds a complete explainability pipeline from scratch: synthetic regulated data → XGBoost model → SHAP explanation layer → simulated compliance A/B test → explanation quality monitoring.
-
 ## Quick Start
 
 ```bash
