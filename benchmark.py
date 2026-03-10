@@ -1,12 +1,6 @@
 """
 SHAP-Based Explainability for Regulated ML Compliance
 =====================================================
-Demonstrates the full pipeline backing:
-  "Compliance approval improved 22% by integrating SHAP-based
-   explainability layers for regulated ML outputs"
-
-Run: pip install shap xgboost scikit-learn matplotlib pandas numpy tabulate
-     python benchmark.py
 
 Author: Raasikh
 """
